@@ -6,7 +6,7 @@ A Java implementation of the classic PSX Doom fire effect using Swing. This proj
 
 ## 🎮 About
 
-The Doom fire effect is a legendary piece of demo scene programming that creates realistic-looking fire using a simple but clever algorithm. This implementation brings that classic effect to Java with smooth animation and authentic color palette.
+The Doom fire effect is a legendary piece of demo scene programming that creates realistic-looking fire using a simple but clever algorithm. This implementation brings that classic effect to Java with smooth animation and an authentic color palette.
 
 ## ✨ Features
 
@@ -92,19 +92,18 @@ int decay = random.nextInt(3); // Increase for more aggressive decay
 ```
 doom-fire/
 ├── DoomFire.java          # Main application class
-├── ColorPalette.java      # Fire color definitions (embedded)
 ├── README.md             # This file
-└── screenshots/          # Demo images and GIFs
+└── screenshots          # Demo images 
 ```
 
 ## 🖼️ Screenshots
 
 ### 🔥 Fire Effect in Action
-![Doom Fire Effect](screenshots/doom-fire-demo.png)
+![Doom Fire Effect](preview.png)
 *The mesmerizing fire effect with authentic PSX Doom colors and realistic flame movement*
 
 ### 💻 Development Environment
-![Code Structure](screenshots/code-structure.png)
+![Code Structure](code_snippet.png)
 *Clean Java implementation with organized project structure in IntelliJ IDEA*
 
 ## 🎯 Technical Details
