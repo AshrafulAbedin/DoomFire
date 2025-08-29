@@ -2,7 +2,7 @@
 
 A Java implementation of the classic PSX Doom fire effect using Swing. This project recreates the mesmerizing fire animation that was used in the original Doom game's PSX version.
 
-![Doom Fire Demo](https://img.shields.io/badge/Java-Swing-orange) ![License](https://img.shields.io/badge/license-MIT-blue)
+![Doom Fire Demo](https://img.shields.io/badge/Java-Swing-orange)
 
 ## 🎮 About
 
