@@ -134,15 +134,6 @@ Contributions are welcome! Here are some ideas for improvements:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📚 References
-
-- [Original PSX Doom Fire Effect](https://fabiensanglard.net/doom_fire_psx/)
-- [Doom Fire Algorithm Explanation](https://github.com/filipedeschamps/doom-fire-algorithm)
-- Classic demo scene programming techniques
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
@@ -150,11 +141,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Fabien Sanglard** - For documenting the PSX fire effect algorithm
 - **Demo Scene Community** - For inspiring creative programming techniques
 
-## 🔗 Links
 
-- [Live Demo](link-to-demo-if-available)
-- [Blog Post](link-to-blog-post-about-implementation)
-- [Video Tutorial](link-to-video-if-available)
 
 ---
 
